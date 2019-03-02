@@ -1,6 +1,6 @@
-This is a simple django application that does CRUD operation.<br>
+This is a simple django application that does CRUD operation.
 
-Requirements <br>
+<h3>Requirements</h3>
 Python 3.6
 Django==2.1.7
 djangorestframework==3.9.1
